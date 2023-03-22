@@ -6,9 +6,20 @@ h2{
   color: blue;
   text-align: center;
 }
+.one{
+  color: aqua;
+}
+.two{
+  color: red;
+}
+.three{
+  color: green;}
 h3{
   color: black;
   text-align: center;
+}
+.four{
+  color: blue;
 }
 h4{
   color: aquamarine;
@@ -18,4 +29,7 @@ h4{
   background-color: aquamarine;
   padding: 10px 15px;
   margin-right: 15px;
+h5{
+  color: blueviolet;
+  text-align: center;
 }
