@@ -6,6 +6,9 @@ h2{
   color: blue;
   text-align: center;
 }
-p{
+.one{
   color: aqua;
+}
+.two{
+  color: red;
 }
