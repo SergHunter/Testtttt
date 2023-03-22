@@ -13,5 +13,8 @@ h2{
   color: red;
 }
 .three{
-  color: green;
+  color: green;}
+h3{
+  color: black;
+  text-align: center;
 }
