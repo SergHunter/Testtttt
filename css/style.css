@@ -33,3 +33,9 @@ h5{
   color: blueviolet;
   text-align: center;
 }
+.btn2{
+  background-color: blanchedalmond;
+  font-size: 25px;
+  margin-left: 50px;
+  cursor: pointer;
+}
